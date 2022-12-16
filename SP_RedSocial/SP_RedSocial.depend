@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1669939296 source:c:\users\moran\tabajos-cb\sp_redsocial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"UTN_lib.h"
+	"LinkedList.h"
+	"parser.h"
+	"Controller.h"
+	"post.h"
+
+1669939462 c:\users\moran\tabajos-cb\sp_redsocial\utn_lib.h
+
+1656718069 c:\users\moran\tabajos-cb\sp_redsocial\linkedlist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1669939404 c:\users\moran\tabajos-cb\sp_redsocial\parser.h
+
+1669938864 c:\users\moran\tabajos-cb\sp_redsocial\controller.h
+
+1669939474 c:\users\moran\tabajos-cb\sp_redsocial\post.h
+
+1656718069 source:c:\users\moran\tabajos-cb\sp_redsocial\linkedlist.c
+	"LinkedList.h"
+
+1669936835 source:c:\users\moran\tabajos-cb\sp_redsocial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"UTN_lib.h"
+	"LinkedList.h"
+	"Controller.h"
+	"post.h"
+
+1669939411 source:c:\users\moran\tabajos-cb\sp_redsocial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"parser.h"
+	"Controller.h"
+	"post.h"
+
+1669938357 source:c:\users\moran\tabajos-cb\sp_redsocial\post.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"UTN_lib.h"
+	"LinkedList.h"
+	"parser.h"
+	"Controller.h"
+	"post.h"
+
+1669936548 source:c:\users\moran\tabajos-cb\sp_redsocial\utn_lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"UTN_lib.h"
+
