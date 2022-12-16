@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1665637294 source:c:\users\moran\tabajos-cb\parcial-labo-1-e\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"UTN_lib.h"
+	"rubro.h"
+	"articulo.h"
+	"venta.h"
+	"informes.h"
+
+1665631134 source:c:\users\moran\tabajos-cb\parcial-labo-1-e\rubro.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"UTN_lib.h"
+	"rubro.h"
+
+1665635433 c:\users\moran\tabajos-cb\parcial-labo-1-e\rubro.h
+
+1665638434 c:\users\moran\tabajos-cb\parcial-labo-1-e\articulo.h
+	"rubro.h"
+
+1665638504 source:c:\users\moran\tabajos-cb\parcial-labo-1-e\articulo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"UTN_lib.h"
+	"rubro.h"
+	"articulo.h"
+
+1665630026 source:c:\users\moran\tabajos-cb\parcial-labo-1-e\utn_lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1665074111 c:\users\moran\tabajos-cb\parcial-labo-1-e\utn_lib.h
+
+1665635539 c:\users\moran\tabajos-cb\parcial-labo-1-e\venta.h
+	"fecha.h"
+	"articulo.h"
+	"rubro.h"
+
+1665171718 c:\users\moran\tabajos-cb\parcial-labo-1-e\fecha.h
+
+1665637418 source:c:\users\moran\tabajos-cb\parcial-labo-1-e\venta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"UTN_lib.h"
+	"venta.h"
+
+1665528521 source:c:\users\moran\tabajos-cb\parcial-labo-1-e\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1665638094 c:\users\moran\tabajos-cb\parcial-labo-1-e\informes.h
+	"UTN_lib.h"
+	"rubro.h"
+	"articulo.h"
+	"venta.h"
+	"fecha.h"
+
+1665638069 source:c:\users\moran\tabajos-cb\parcial-labo-1-e\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"informes.h"
+
+1665528521 source:c:\users\moran\tabajos-cb\parcial-labo-1-e-parte-2\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1665678641 c:\users\moran\tabajos-cb\parcial-labo-1-e-parte-2\fecha.h
+
+1665682563 source:c:\users\moran\tabajos-cb\parcial-labo-1-e-parte-2\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"informes.h"
+
+1665638094 c:\users\moran\tabajos-cb\parcial-labo-1-e-parte-2\informes.h
+	"UTN_lib.h"
+	"rubro.h"
+	"articulo.h"
+	"venta.h"
+	"fecha.h"
+
+1665074111 c:\users\moran\tabajos-cb\parcial-labo-1-e-parte-2\utn_lib.h
+
+1665635433 c:\users\moran\tabajos-cb\parcial-labo-1-e-parte-2\rubro.h
+
+1665638434 c:\users\moran\tabajos-cb\parcial-labo-1-e-parte-2\articulo.h
+	"rubro.h"
+
+1665635539 c:\users\moran\tabajos-cb\parcial-labo-1-e-parte-2\venta.h
+	"fecha.h"
+	"articulo.h"
+	"rubro.h"
+
+1665682034 source:c:\users\moran\tabajos-cb\parcial-labo-1-e-parte-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"UTN_lib.h"
+	"rubro.h"
+	"articulo.h"
+	"venta.h"
+	"informes.h"
+
+1665678050 source:c:\users\moran\tabajos-cb\parcial-labo-1-e-parte-2\rubro.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"UTN_lib.h"
+	"rubro.h"
+
+1665630026 source:c:\users\moran\tabajos-cb\parcial-labo-1-e-parte-2\utn_lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1665677872 source:c:\users\moran\tabajos-cb\parcial-labo-1-e-parte-2\venta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"UTN_lib.h"
+	"venta.h"
+
+1665678352 source:c:\users\moran\tabajos-cb\parcial-labo-1-e-parte-2\articulo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"UTN_lib.h"
+	"rubro.h"
+	"articulo.h"
+
