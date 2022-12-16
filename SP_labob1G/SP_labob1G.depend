@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1669171083 source:c:\users\moran\tabajos-cb\sp_labob1g\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1669289096 c:\users\moran\tabajos-cb\sp_labob1g\linkedlist.h
+
+1669423919 source:c:\users\moran\tabajos-cb\sp_labob1g\main.c
+	<time.h>
+	<string.h>
+	"UTN_lib.h"
+	"LinkedList.h"
+	"Controller.h"
+	"movie.h"
+
+1668628531 source:c:\users\moran\tabajos-cb\sp_labob1g\utn_lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"UTN_lib.h"
+
+1668629087 c:\users\moran\tabajos-cb\sp_labob1g\utn_lib.h
+
+1669422426 c:\users\moran\tabajos-cb\sp_labob1g\controller.h
+
+1669423637 c:\users\moran\tabajos-cb\sp_labob1g\movie.h
+
+1669423636 source:c:\users\moran\tabajos-cb\sp_labob1g\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"UTN_lib.h"
+
+1669390786 c:\users\moran\tabajos-cb\sp_labob1g\menu.h
+
+1669414092 source:c:\users\moran\tabajos-cb\sp_labob1g\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"parser.h"
+	"Controller.h"
+	"movie.h"
+
+1669350648 c:\users\moran\tabajos-cb\sp_labob1g\parser.h
+
+1669420515 source:c:\users\moran\tabajos-cb\sp_labob1g\movie.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"UTN_lib.h"
+	"LinkedList.h"
+	"parser.h"
+	"movie.h"
+	"menu.h"
+
+1669424209 source:c:\users\moran\tabajos-cb\sp_labob1g\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"UTN_lib.h"
+	"LinkedList.h"
+	"parser.h"
+	"Controller.h"
+	"movie.h"
+	"menu.h"
+
+1669424209 source:c:\users\moran\desktop\ezequiel.moran.p2.labo1g\sp_labob1g\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"UTN_lib.h"
+	"LinkedList.h"
+	"parser.h"
+	"Controller.h"
+	"movie.h"
+	"menu.h"
+
+1668629087 c:\users\moran\desktop\ezequiel.moran.p2.labo1g\sp_labob1g\utn_lib.h
+
+1669289096 c:\users\moran\desktop\ezequiel.moran.p2.labo1g\sp_labob1g\linkedlist.h
+
+1669350648 c:\users\moran\desktop\ezequiel.moran.p2.labo1g\sp_labob1g\parser.h
+
+1669422426 c:\users\moran\desktop\ezequiel.moran.p2.labo1g\sp_labob1g\controller.h
+
+1669423637 c:\users\moran\desktop\ezequiel.moran.p2.labo1g\sp_labob1g\movie.h
+
+1669390786 c:\users\moran\desktop\ezequiel.moran.p2.labo1g\sp_labob1g\menu.h
+
+1669171083 source:c:\users\moran\desktop\ezequiel.moran.p2.labo1g\sp_labob1g\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1669423919 source:c:\users\moran\desktop\ezequiel.moran.p2.labo1g\sp_labob1g\main.c
+	<time.h>
+	<string.h>
+	"UTN_lib.h"
+	"LinkedList.h"
+	"Controller.h"
+	"movie.h"
+
+1669423636 source:c:\users\moran\desktop\ezequiel.moran.p2.labo1g\sp_labob1g\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"UTN_lib.h"
+
+1669414092 source:c:\users\moran\desktop\ezequiel.moran.p2.labo1g\sp_labob1g\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"parser.h"
+	"Controller.h"
+	"movie.h"
+
+1668628531 source:c:\users\moran\desktop\ezequiel.moran.p2.labo1g\sp_labob1g\utn_lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"UTN_lib.h"
+
