@@ -1,0 +1,160 @@
+# depslib dependency file v1.0
+1666399640 source:c:\users\moran\tabajos-cb\parcial_labo-1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN_lib.h"
+	"avion.h"
+	"aerolinea.h"
+	"tipo.h"
+	"destino.h"
+
+1666389546 source:c:\users\moran\tabajos-cb\parcial_labo-1g\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1666389543 c:\users\moran\tabajos-cb\parcial_labo-1g\fecha.h
+
+1666393844 source:c:\users\moran\tabajos-cb\parcial_labo-1g\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"UTN_lib.h"
+	"tipo.h"
+
+1666390905 c:\users\moran\tabajos-cb\parcial_labo-1g\utn_lib.h
+
+1666390365 c:\users\moran\tabajos-cb\parcial_labo-1g\tipo.h
+
+1666390904 source:c:\users\moran\tabajos-cb\parcial_labo-1g\utn_lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1666393782 source:c:\users\moran\tabajos-cb\parcial_labo-1g\aerolinea.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"UTN_lib.h"
+	"aerolinea.h"
+
+1666390762 c:\users\moran\tabajos-cb\parcial_labo-1g\aerolinea.h
+
+1666399618 c:\users\moran\tabajos-cb\parcial_labo-1g\avion.h
+	"tipo.h"
+	"aerolinea.h"
+
+1666399582 source:c:\users\moran\tabajos-cb\parcial_labo-1g\avion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"UTN_lib.h"
+	"avion.h"
+
+1666396852 source:c:\users\moran\tabajos-cb\parcial_labo-1g\destino.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"UTN_lib.h"
+	"destino.h"
+
+1666396735 c:\users\moran\tabajos-cb\parcial_labo-1g\destino.h
+
+1666399546 source:c:\users\moran\tabajos-cb\parcial_labo-1g\vuelo.c
+
+1666967770 source:c:\users\moran\desktop\ezequiel.moran.p1.labo1.1g\parcial_labo-1g\aerolinea.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"UTN_lib.h"
+	"aerolinea.h"
+
+1666390905 c:\users\moran\desktop\ezequiel.moran.p1.labo1.1g\parcial_labo-1g\utn_lib.h
+
+1666390762 c:\users\moran\desktop\ezequiel.moran.p1.labo1.1g\parcial_labo-1g\aerolinea.h
+
+1667001117 source:c:\users\moran\desktop\ezequiel.moran.p1.labo1.1g\parcial_labo-1g\avion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"UTN_lib.h"
+	"avion.h"
+
+1666972514 c:\users\moran\desktop\ezequiel.moran.p1.labo1.1g\parcial_labo-1g\avion.h
+	"tipo.h"
+	"aerolinea.h"
+
+1666973882 c:\users\moran\desktop\ezequiel.moran.p1.labo1.1g\parcial_labo-1g\tipo.h
+
+1666396852 source:c:\users\moran\desktop\ezequiel.moran.p1.labo1.1g\parcial_labo-1g\destino.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"UTN_lib.h"
+	"destino.h"
+
+1666972851 c:\users\moran\desktop\ezequiel.moran.p1.labo1.1g\parcial_labo-1g\destino.h
+
+1666808586 source:c:\users\moran\desktop\ezequiel.moran.p1.labo1.1g\parcial_labo-1g\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN_lib.h"
+	"fecha.h"
+
+1666808574 c:\users\moran\desktop\ezequiel.moran.p1.labo1.1g\parcial_labo-1g\fecha.h
+
+1666997599 source:c:\users\moran\desktop\ezequiel.moran.p1.labo1.1g\parcial_labo-1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN_lib.h"
+	"avion.h"
+	"aerolinea.h"
+	"tipo.h"
+	"destino.h"
+	"vuelo.h"
+	"informe.h"
+
+1666992703 source:c:\users\moran\desktop\ezequiel.moran.p1.labo1.1g\parcial_labo-1g\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tipo.h"
+
+1666390904 source:c:\users\moran\desktop\ezequiel.moran.p1.labo1.1g\parcial_labo-1g\utn_lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1666808332 source:c:\users\moran\desktop\ezequiel.moran.p1.labo1.1g\parcial_labo-1g\vuelo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"UTN_lib.h"
+	"vuelo.h"
+
+1666972516 c:\users\moran\desktop\ezequiel.moran.p1.labo1.1g\parcial_labo-1g\vuelo.h
+	"fecha.h"
+	"destino.h"
+	"avion.h"
+	"tipo.h"
+	"aerolinea.h"
+
+1667002056 source:c:\users\moran\desktop\ezequiel.moran.p1.labo1.1g\parcial_labo-1g\informe.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"informe.h"
+
+1667000642 c:\users\moran\desktop\ezequiel.moran.p1.labo1.1g\parcial_labo-1g\informe.h
+	"UTN_lib.h"
+	"aerolinea.h"
+	"tipo.h"
+	"vuelo.h"
+	"avion.h"
+
